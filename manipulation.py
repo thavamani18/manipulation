@@ -11,7 +11,13 @@
 # print("The subtraction of two number is",c)
 
 # MULTIPLICATION
-a=5
-b=4
-c=a*b
-print("The multiplication of two number is",c)
+# a=5
+# b=4
+# c=a*b
+# print("The multiplication of two number is",c)
+
+# DIVISION
+a=50
+b=5
+c=a/b
+print("The division of two number is",c)
